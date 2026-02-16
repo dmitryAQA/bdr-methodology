@@ -1,5 +1,7 @@
 # BDR Methodology: Behavior-Driven Living Requirements
 
+[🌐 View Website](https://dmitryAQA.github.io/playwright-bdr-template/)
+
 > **The Universal Standard for Scalable Test Automation.**
 
 [![TypeScript Implementation](https://img.shields.io/badge/Reference_Implementation-Playwright%2FTS-blue)](https://github.com/dmitryAQA/playwright-bdr-template)
