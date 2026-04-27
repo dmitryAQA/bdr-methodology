@@ -37,7 +37,7 @@ Telegram: [@DmitryMeAQA](https://t.me/DmitryMeAQA)
 
 BDR transforms test automation from a "maintenance burden" into the **Single Source of Truth** about the product.
 
-I value:
+BDR values:
 
 1. **Living Requirements** over Stale Documentation.
 2. **Behavioral Code** over Tool-Specific Scripts.
@@ -50,14 +50,14 @@ That is, while there is value in the items on the right, I value the items on th
 
 ## Core Principles
 
-### I Do:
+### The BDR Way:
 
 - **Write tests in Business Language.** The Scenario Layer must read like a User Story.
 - **Invest in Reporting.** The report is not just a log; it is a legal document of feature delivery.
 - **Separate Concerns.** Technical details (selectors, API calls) live in a separate layer from Business Logic.
 - **Strive for Zero Frustration.** Every failure must immediately answer "What?", "Where?", and "Why?".
 
-### I Don't:
+### Anti-patterns:
 
 - **Write tests "for the tool".** If I switch from Playwright to Selenium, the Specification Layer should not change.
 - **Ignore "Noise".** Flakiness is a violation of "Infinite Reproducibility".
