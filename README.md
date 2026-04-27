@@ -16,7 +16,9 @@ I'm Dmitry, a QA Automation Engineer. I got tired of watching teams spend more t
 BDR keeps everything that's good about BDD (Given/When/Then, business-readable scenarios, living documentation) and removes the part that slows you down (Cucumber, Gherkin, step definition hunting).
 
 **I'm currently open to QA Automation roles — remote, contract, or full-time.**
+
 [dmitryAQA@outlook.com](mailto:dmitryAQA@outlook.com)
+
 Telegram: [@DmitryMeAQA](https://t.me/DmitryMeAQA)
 
 ---
